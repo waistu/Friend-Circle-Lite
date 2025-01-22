@@ -10,4 +10,4 @@
 友链朋友圈简单版，实现了[友链朋友圈](https://github.com/Rock-Candy-Tea/hexo-circle-of-friends)的基本功能，能够定时爬取rss文章并输出有序内容，为了较好的兼容性，输入格式与友链朋友圈的json格式一致，为了轻量化，暂不支持从友链页面自动爬取.
 
 
-该项目仅为个人字用，有部分修改，如需部署，请访问原项目：https://github.com/willow-god/Friend-Circle-Lite
+该项目仅为个人自用，有部分修改，如需部署，请访问原项目：https://github.com/willow-god/Friend-Circle-Lite
